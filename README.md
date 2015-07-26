@@ -1,6 +1,6 @@
 # Doorrest
 
-DoorREST as in
+DoorREST as in...
 * RESTroom
 * RESTful api
 * everyone gets more REST
